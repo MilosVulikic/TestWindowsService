@@ -12,4 +12,4 @@
   <li> manually start</li>
   
 # What does it do
-<p>This version of service when started creates <b>logfile.txt</b> and fill in info about the starting and finishing mocking processes.</p>
+<p>This version of service when started creates <b>logfile.txt</b> and simulates the fill in info about starting and finishing the mocking processes.</p>
